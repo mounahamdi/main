@@ -1,0 +1,435 @@
+[
+    {
+      "idproducts": 1,
+      "category": "men's clothing",
+      "idcategory":1,
+      "price": 109.95,
+      "name_product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "quantity":45,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-RM1gEl6L._AC_UL900_SR615,900_.jpg"
+    },
+    {
+      "idproducts": 2,
+      "name_product": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "category": "men's clothing",
+      "idcategory":1,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71Gw0RL3GkL._AC_UY1000_.jpg"
+    },
+    {
+      "idproducts": 3,
+      "name_product": "Mens Cotton Jacket",
+      "price": 55.99,
+      "category": "men's clothing",
+      "idcategory":1,
+      "quantity":45,
+      "image_url": "https://images.meesho.com/images/products/155204709/3bcnj_512.jpg"
+    },
+    {
+      "idproducts": 4,
+      "name_product": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "category": "men's clothing",
+      "idcategory":1,
+      "quantity":45,
+      "image_url": "https://www.sirri.co.uk/media/catalog/product/cache/c0e7c0875c889aef60063c3b9191953f/m/e/mens_casual_slim_fit_denim_stretch_jeans_in_grey_4_.jpg"
+    },
+    {
+      "idproducts": 5,
+      "name_product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "category": "jewelery",
+      "idcategory":2,
+      "quantity":45,
+      "image_url": "https://cdna.lystit.com/photos/saksfifthavenue/765c6079/john-hardy-silver-Naga-18k-Yellow-Gold-Sterling-Silver-Dragon-Slim-Kick-Cuff-Bracelet.jpeg"
+    },
+    {
+      "idproducts": 6,
+      "name_product": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "category": "jewelery",
+      "idcategory":2,
+      "quantity":45,
+      "image_url": "https://www.dercodiamonds.com/wp-content/uploads/2020/08/735027_c-yellow-1.jpg"
+    },
+    {
+      "idproducts": 7,
+      "name_product": "White Gold Plated Princess",
+      "price": 9.99,
+      "category": "jewelery",
+      "idcategory":2,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61MykDtMsjL._AC_UY580_.jpg"
+    },
+    {
+      "idproducts": 8,
+      "name_product": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "category": "jewelery",
+      "idcategory":2,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71YySuxqVML._AC_UY1000_.jpg"
+    },
+    {
+      "idproducts": 9,
+      "name_product": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "category": "electronics",
+      "idcategory":3,
+      "quantity":45,
+      "image_url": "https://www.bhphotovideo.com/images/images2500x2500/wd_wdbu6y0020bbk_wesn_2tb_elements_portable_hard_1322074.jpg"
+    },
+    {
+      "idproducts": 10,
+      "name_product": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "idcategory":3,
+      "quantity":45,
+      "image_url": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    },
+    {
+      "idproducts": 11,
+      "name_product": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "category": "electronics",
+      "idcategory":3,
+      "quantity":45,
+      "image_url": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+    },
+    {
+      "idproducts": 12,
+      "name_product": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "category": "electronics",
+      "idcategory":3,
+      "quantity":34,
+      "image_url": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+    },
+    {
+      "idproducts": 13,
+      "name_product": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "category": "electronics",
+      "idcategory":3,
+      "quantity":45,
+      "image_url": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+    },
+    {
+      "idproducts": 14,
+      "name_product": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "category": "electronics",
+      "idcategory":3,
+      "quantity":45,
+      "image_url": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "idproducts": 15,
+      "name_product": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "category": "women's clothing",
+      "idcategory":4,
+      "quantity":45,
+      "image_url": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+    },
+    {
+      "idproducts": 16,
+      "name_product": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "category": "women's clothing",
+      "idcategory":4,
+      "quantity":45,
+      "image_url": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+    },
+    {
+      "idproducts": 17,
+      "name_product": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "category": "women's clothing",
+      "idcategory":4,
+      "quantity":45,
+      "image_url": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+    },
+    {
+      "idproducts": 18,
+      "name_product": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "category": "women's clothing",
+      "idcategory":4,
+      "quantity":45,
+      "image_url": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+    },
+    {
+      "idproducts": 19,
+      "name_product": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "category": "women's clothing",
+      "idcategory":4,
+      "quantity":45,
+      "image_url": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    },
+    {
+      "idproducts": 20,
+      "name_product": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "category": "women's clothing",
+      "idcategory":4,
+      "quantity":45,
+      "image_url": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+    },
+    {
+      "idproducts": 22,
+      "category": "Men's Clothing",
+      "idcategory":1,
+      "name_product": "Tommy Hilfiger Men's Original Flag Short Sleeve Polo",
+      "price": 129.99,
+      "quantity":45,
+      "image_url": "https://johnlewis.scene7.com/is/image/JohnLewis/006363821?$fashion-ui$"
+    },
+    {
+      "idproducts": 23,
+      "category": "Electronics",
+      "idcategory":3,
+      "name_product": "Apple iPhone 12 Pro Max 256GB",
+      "price": 3799,
+      "quantity":45,
+      "image_url": "https://i0.wp.com/www.rewjido.com/wp-content/uploads/2020/12/I-phone-12-pro-max-256.jpg?fit=2317%2C2388&ssl=1"
+    },
+    {
+      "idproducts": 24,
+      "category": "Home Appliances",
+      "idcategory":5,
+      "name_product": "LG 65-inch 4K Ultra HD Smart OLED TV",
+      "price": 4999,
+      "quantity":45,
+      "image_url": "https://i5.walmartimages.com/asr/28e24fe2-df95-4396-923c-fb4668c5396d.b855f926599c0482ab4dc11478901a72.jpeg"
+    },
+    {
+      "idproducts": 25,
+      "category": "Beauty",
+      "idcategory":6,
+      "name_product": "Estée Lauder Double Wear Stay-in-Place Foundation",
+      "price": 139.99,
+      "quantity":45,
+      "image_url": "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F01_640x640_0.jpg"
+    },
+    {
+      "idproducts": 26,
+      "category": "Women's Clothing",
+      "idcategory":4,
+      "name_product": "Adidas Women's Superstar Shoes",
+      "price": 239,
+      "quantity":45,
+      "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/7e03ecef81a64126bcecab58011051d8_9366/Superstar_Bold_Women's_Shoes_White_FV3336_01_standard.jpg"
+    },
+    {
+      "idproducts": 27,
+      "category": "Home Appliances",
+      "idcategory":5,
+      "name_product": "Samsung 27 cu. ft. French Door Refrigerator",
+      "price": 3599,
+      "quantity":45,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6401/6401612cv1d.jpg"
+    },
+    {
+      "idproducts": 28,
+      "category": "Beauty",
+      "idcategory":6,
+      "name_product": "Lancôme La Vie Est Belle Eau de Parfum",
+      "price": 169.99,
+      "quantity":45,
+      "image_url": "https://www.lamode.tn/23244-large_default/eau-de-parfum-lancome-la-vie-est-belle.jpg"
+    },
+    {
+      "idproducts": 29,
+      "category":"Women's Clothing",
+      "idcategory":4,
+      "name_product": "Gucci Women's Belt with Interlocking G Buckle",
+      "price": 1099,
+      "quantity":45,
+      "image_url": "https://images.stockx.com/images/Gucci-Interlocking-G-Belt-Matte-Black-Buckle-Navy-Studio-1.jpg?fit=fill&bg=FFFFFF&w=480&h=320&fm=webp&auto=compress&dpr=2&trim=color&trimcolor=ffffff&updated_at=1610550879&q=75"
+    },
+    {
+      "idproducts": 30,
+      "category": "Electronics",
+      "idcategory":3,
+      "name_product": "Sony Noise Cancelling Headphones WH1000XM4",
+      "price": 1199.99,
+      "quantity":45,
+      "image_url": "https://i.rtings.com/assets/products/nggZcsC3/sony-wh-1000xm4-wireless/design-medium.jpg"
+    },
+    {
+      "idproducts": 31,
+      "category": "Home & Kitchen",
+      "idcategory":5,
+      "name_product": "Instant Pot DUO80 8 Qt 7-in-1 Multi- Use Pressure Cooker",
+      "price": 369.99,
+      "quantity":45,
+      "image_url": "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/10945958_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1"
+    },
+    {
+      "idproducts": 32,
+      "category": "Toys",
+      "idcategory":7,
+      "name_product": "LEGO Star Wars: The Mandalorian The Razor Crest 75292 Exclusive Building Kit",
+      "price": 699.99,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/I/918CAx5r5PL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "idproducts": 33,
+      "category": "Beauty",
+      "idcategory":6,
+      "name_product": "L'Oreal Paris Voluminous Lash Paradise Mascara",
+      "price": 19.99,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71QoHdtmzNL._SL1500_.jpg"
+    },
+    {
+      "idproducts": 34,
+      "category": "Sports",
+      "idcategory":8,
+      "name_product": "Fitbit Charge 4 Fitness and Activity Tracker",
+      "price": 399.99,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/I/71smqRr0pmL.jpg"
+    },
+    {
+      "idproducts": 35,
+      "category": "Books",
+      "idcategory":9,
+      "name_product": "The Silent Patient by Alex Michaelides",
+      "price": 25.99,
+      "quantity":45,
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_6de8272f-6d52-496a-9a8f-1e28f596877c?wid=800&hei=800&qlt=80&fmt=webp"
+    },
+    {
+      "idproducts": 36,
+      "category": "Home & Kitchen",
+      "idcategory":5,
+      "name_product": "iRobot Roomba 960 Robot Vacuum- Wi-Fi Connected Mapping, Works with Alexa",
+      "price": 1299.99,
+      "quantity":45,
+      "image_url": "https://microless.com/cdn/products/96a44aa7c1cfc202a6578cc2306d8e44-hi.jpg"
+    },
+    {
+      "idproducts": 37,
+      "category": "Electronics",
+      "idcategory":3,
+      "name_product": "Apple MacBook Pro 16-inch with Touch Bar, 9th-generation 8-Core Intel Core i9",
+      "price": 5799.99,
+      "quantity":45,
+      "image_url": "https://macfinder.co.uk/wp-content/uploads/2022/12/img-MacBook-Pro-Retina-16-Inch-29007.jpg"
+    },
+   {
+      "idproducts": 38,
+      "category": "Sports",
+      "idcategory":8,
+      "name_product": "Garmin Forerunner 245 GPS Running Smartwatch",
+      "price": 949.99,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51Wzel4ZD-L._SL1000_.jpg"
+    }, 
+    {
+      "idproducts": 39,
+      "category": "Beauty",
+      "idcategory":6,
+      "name_product": "Olay Regenerist Retinol 24 Night Moisturizer",
+      "price": 29.99,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/I/81bTwbW383L.jpg"
+    },
+    {
+      "idproducts": 40,
+      "category": "Toys",
+      "idcategory":7,
+      "name_product": "Nintendo Switch Lite - Gray",
+      "price": 899.99,
+      "quantity":45,
+      "image_url": "https://i5.walmartimages.com/asr/58185a5b-827b-480b-a07f-275dd6b33365.1c7ad0108c08306eefd6ee2fef62d6d7.jpeg"
+    },
+    {
+      "idproducts": 42,
+      "category": "Home & Kitchen",
+      "idcategory":5,
+      "name_product": "Instant Pot Duo Nova 7-in-1 Electric Pressure Cooker",
+      "price": 349.99,
+      "quantity":45,
+      "image_url": "https://instantpot.com.au/wp-content/uploads/2019/11/B07Y1XNXMB.MAIN_.jpg"
+    },
+    {
+      "idproducts": 43,
+      "category": "Electronics",
+      "idcategory":3,
+      "name_product": "Samsung Galaxy S21 Ultra 5G",
+      "price": 3199.99,
+      "quantity":45,
+      "image_url": "https://www.mbm-tn.com/13277-large_default/smartphone-samsung-galaxy-s21-ultra-12g-256g-5g.jpg"
+    },
+    {
+      "idproducts": 44,
+      "category": "Sports",
+      "idcategory":8,
+      "name_product": "Peloton Bike+",
+      "price": 7299.99,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/I/71uspbh7eRL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "idproducts": 45,
+      "category": "Beauty",
+      "idcategory":6,
+      "name_product": "Foreo Luna Mini 2 Facial Cleansing Brush",
+      "price": 9.99,
+      "quantity":45,
+      "image_url": "https://i.pinimg.com/originals/20/3f/d3/203fd3bd7c73eeb6b83203b8919d5a22.jpg"
+    },
+    {
+      "idproducts": 46,
+      "category": "Toys",
+      "idcategory":7,
+      "name_product": "LEGO Star Wars: The Mandalorian The Child",
+      "price": 89.99,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/I/81HGsmljBEL.jpg"
+    },
+    {
+      "idproducts": 47,
+      "category": "Electronics",
+      "idcategory":3,
+      "name_product": "Apple AirPods Pro",
+      "price": 599.99,
+      "quantity":45,
+      "image_url": "https://tunisiatech.tn/9294-home_default/ecouteurs-airpods-apple-sans-fil-blanc-prix-tunisie.jpg"
+    },
+    {
+      "idproducts": 48,
+      "category": "Home & Kitchen",
+      "idcategory":5,
+      "name_product": "Keurig K-Elite Coffee Maker",
+      "price": 459.99,
+      "quantity":45,
+      "imageUrl": "https://m.media-amazon.com/images/I/810ZldMlknL.jpg"
+    },
+    {
+      "idproducts": 49,
+      "category": "Beauty",
+      "idcategory":6,
+      "name_product": "Dyson Supersonic Hair Dryer",
+      "price": 899.99,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/I/61cv7O1cfNL._SL1000_.jpg"
+    },
+    {
+      "idproducts": 50,
+      "name_product": "Acer SB220Q bi 17 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "category": "electronics",
+      "idcategory":3,
+      "quantity":45,
+      "image_url": "https://m.media-amazon.com/images/I/71GbO41HbYL.jpg"
+    }
+  ]
