@@ -21,6 +21,7 @@ import { HomeComponent } from './pages/home/home.component';
 import { LoginComponent } from './pages/login/login.component';
 import { SignupComponent } from './pages/signup/signup.component';
 import { StoreComponent } from './pages/store/store.component';
+import { SidebarComponent } from './components/sidebar/sidebar.component';
 
 @NgModule({
   declarations: [
@@ -42,7 +43,8 @@ import { StoreComponent } from './pages/store/store.component';
     HomeComponent,
     LoginComponent,
     SignupComponent,
-    StoreComponent
+    StoreComponent,
+    SidebarComponent
   ],
   imports: [
     BrowserModule,
